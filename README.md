@@ -52,3 +52,5 @@ Nest Learning Thermostat       0.50      1.00      0.67         1
                macro avg       0.63      0.68      0.62        49
             weighted avg       0.69      0.69      0.65        49
 ```
+![cm](https://user-images.githubusercontent.com/5519039/141360938-487dff3a-e4a3-4382-894b-de8eaa4657d1.png)
+
